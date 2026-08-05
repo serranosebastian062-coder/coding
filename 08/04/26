@@ -1,0 +1,19 @@
+name=("Sebastian")
+print(name)
+Sebastian 
+age=int("18")
+print(age)
+18
+address=("Jalung, Porac Pampanga")
+print(address)
+Jalung, Porac Pampanga
+me=bool("Masanting")
+print(me)
+True
+
+class profile:
+      name= "Sebastian D. Serrano"
+      age= "18"
+      address= "Jalung, Porac Pampanga" 
+      favcolore "Black"
+      print("My name is "+ name +." I am " + age + " years old. I lived in " + address + " And my favorite color is " + favcolor + ".")
